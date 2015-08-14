@@ -12,7 +12,8 @@ public class AnotherClass {
 	 * 
 	 */
 	public AnotherClass() {
-System.out.println("another print statement ha!");	}
+System.out.println("another print statement ha!");	
+System.out.println("Hola Angineh!");}
 
 	/**
 	 * @param args
